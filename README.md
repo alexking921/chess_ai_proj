@@ -1,3 +1,9 @@
+<!-- ABOUT THE PROJECT -->
+# About The Project
+This is a chess engine with several different playable AI opponents. The chess engine itself accurately captures all chess rules for each piece, including checking and castling. All valid moves are denoted when you click on a piece during your turn. The project uses the p5.js library, allowing a user to play directly from their browser without any cloning required. This choice made the project more accessible however it also slowed down the AI players move calculations.
+
+![Alt text](images/chess_proj_screenshot2.png)
+
 # Welcome to p5.js
 
 You have downloaded the complete p5.js library ZIP file, yay!
